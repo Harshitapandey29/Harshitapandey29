@@ -3,7 +3,7 @@
 📊 Turning raw data into meaningful insights & impactful stories
 
 # 💫 About Me:
-🔭 Currently Working On: End-to-end data analytics projects & Interactive dashboards<br>🤝 Open to Collaborate On:<br><br>- Data analysis, visualization & real-world analytics problems<br><br>🆘 Looking for Guidance In:<br><br>- Advanced SQL, KPI design & scalable analytics<br><br>🌱 Currently Learning:<br><br>- Business Intelligence & Machine Learning for Analytics<br><br>💬 Ask Me About:<br><br>- Data cleaning, EDA, SQL & Power BI dashboards<br><br>⚡ Fun Fact:<br><br>- I don’t just analyze data—I enjoy finding patterns where others see chaos 📊✨
+🔭 Currently Working On: End-to-end data analytics projects & Interactive dashboards<br>🤝 Open to Collaborate On: Data analysis, visualization & real-world analytics problems<br>🆘 Looking for Guidance In: Advanced SQL, KPI design & scalable analytics<br>🌱 Currently Learning: Business Intelligence & Machine Learning for Analytics<br>💬 Ask Me About: Data cleaning, EDA, SQL & Power BI dashboards<br>⚡ Fun Fact: I don’t just analyze data—I enjoy finding patterns where others see chaos 📊✨
 
 
 ## 🌐 Socials:
